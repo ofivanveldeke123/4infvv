@@ -1,0 +1,2 @@
+personen = int(imput("Geef getal1: "))
+snoepjes = int(imput("Geef getal2: "))

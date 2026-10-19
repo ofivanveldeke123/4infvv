@@ -1,0 +1,3 @@
+naam = imput("geef je naam: ")
+leeftijd = int(imput("Wat is je leeftijd: "))
+print("Dag " + naam + " je bent " + str(leeftijd) + " jaar ")
